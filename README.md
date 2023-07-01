@@ -9,7 +9,7 @@ Skills: REACT / JS / HTML / CSS
 - 🌱 I’m currently learning Full stak web development coureses 
 - 💬 Ask me about react 
 - 📫 How to reach me: mdfahimislam3244@gmail.com 
-- ⚡ Fun fact: I think i am fully 
+- ⚡ Fun fact: I think i am funny 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdfahimislamshoun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/md fahim islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@fahi_islam)  
