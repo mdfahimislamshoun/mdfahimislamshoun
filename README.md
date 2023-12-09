@@ -63,8 +63,6 @@
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdfahimislamshoun &theme=darcula)
-
 # My Work Overview
 
 Welcome to my web application project! My All project utilizes React.js for the frontend, Express.js for the backend, and MongoDB as the database. Firebase is employed for user authentication, and Tailwind CSS is used for styling.
