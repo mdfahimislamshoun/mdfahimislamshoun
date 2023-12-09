@@ -32,10 +32,22 @@
 ## :computer: Technologies that I know
 <br>
 <p align="center" >
-  
+  <br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/HTML.png"/>
+<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/css.png"/>
+<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/express.png"/>
+<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/JavaScript.png"/>
+<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/firebase.png"/>
+<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/mongo.png"/>
+<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/node.png"/>
+<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/react.png"/>
+<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/tailwind.png"/>
+<br/>
+
 </p>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+ 
 
 
 
