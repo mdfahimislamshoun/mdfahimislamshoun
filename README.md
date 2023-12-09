@@ -31,9 +31,10 @@
 
 ## :computer: Technologies that I know
 <br>
-<p align="center">
-    [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,tailwind,react&theme=light)](https://skillicons.dev)
+<p align="center"  >
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
+
 
 
 
