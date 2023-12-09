@@ -31,11 +31,11 @@
 
 ## :computer: Technologies that I know
 <br>
-<p align="center"  >
-    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center" >
+  
 </p>
 
-
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 
