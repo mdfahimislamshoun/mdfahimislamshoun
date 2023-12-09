@@ -29,8 +29,14 @@
 
 <br />
 
+## :chart_with_upwards_trend: Current Stats
 
+<br />
+<p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdfahimislamshoun&theme=radical" alt="GitHub Streak" /></a>
+
+</p>
+
 
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={dracula}&exclude={html,css,js}" />  </a>
 
