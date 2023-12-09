@@ -20,6 +20,6 @@ Skills: REACT / JS / HTML / CSS
 
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={dracula}&exclude={html,css,js}" />  </a>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,figma&theme=light)](https://skillicons.dev)
  
 
