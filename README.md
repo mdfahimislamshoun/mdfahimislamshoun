@@ -63,5 +63,26 @@
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={dracula}&exclude={html,css,js}" />  </a>
 
 
+# My Work Overview
+
+Welcome to my web application project! My All project utilizes React.js for the frontend, Express.js for the backend, and MongoDB as the database. Firebase is employed for user authentication, and Tailwind CSS is used for styling.
+
+## Technologies Used
+- **Frontend:** React.js
+- **Backend:** Express.js
+- **Database:** MongoDB
+- **Authentication:** Firebase
+- **Styling:** Tailwind CSS
+
+## Project Structure
+
+The project is organized into folders:
+- **`/frontend`:** React.js frontend code.
+- **`/backend`:** Express.js backend code.
+- **`/database`:** MongoDB configurations and schemas.
+- **`/public`:** Public assets.
+- **`/src`:** Source code for both frontend and backend.
+
+
  
 
