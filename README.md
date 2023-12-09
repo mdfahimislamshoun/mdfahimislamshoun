@@ -18,15 +18,5 @@ Skills: REACT / JS / HTML / CSS
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdfahimislamshoun&theme=radical" alt="GitHub Streak" /></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mdfahimislamshoun)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdfahimislamshoun&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdfahimislamshoun)  
-
-![GitHub metrics](https://metrics.lecoq.io/mdfahimislamshoun)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mdfahimislamshoun)  
-
-![Profile views](https://gpvc.arturio.dev/mdfahimislamshoun)  
+ 
 
