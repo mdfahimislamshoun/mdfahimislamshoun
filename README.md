@@ -85,11 +85,6 @@ The project is organized into folders:
 - **`/public`:** Public assets.
 - **`/src`:** Source code for both frontend and backend.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdfahimislamshoun &theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdfahimislamshoun &theme=dracula)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/3-stats.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg)
 
 
  
