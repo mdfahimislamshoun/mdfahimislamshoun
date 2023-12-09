@@ -1,5 +1,4 @@
-### Hi there 👋, my name is Fahim islam
-#### I am larning web development in programming shikbo & programming hero community
+
 ![I am larning web development in programming shikbo & programming hero community](https://github.com/mdfahimislamshoun/mdfahimislamshoun/blob/main/git%20bannar.jpg)
 
 
