@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Full stak web development coureses 
-- 💬 Ask me about react 
+- 🔭 I am a Quick Learner in Web Development.
+- 🌱 I’m exploring - Advanced Frontend and Backend Technologies.
+- 💬 I’m looking - To collaborate on open source web development projects. 
 - 📫 How to reach me: mdfahimislam3244@gmail.com 
 - ⚡ Fun fact: I think i am funny 
 
