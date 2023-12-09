@@ -16,6 +16,25 @@ Skills: REACT / JS / HTML / CSS
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
+## :mailbox: Reach me out
+
+<br />
+
+<p align="center">
+    <a href="www.linkedin.com/in/fahim-islam-a3a10a270">
+        <img height="75" src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/Linkedin.png">
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100029592060567">
+        <img height="75" src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/Facebook.png">
+    </a>
+    <a href="https://twitter.com/fahi_islam">
+        <img height="75" src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/Twitter2.png">
+    </a>
+</p>
+
+<br />
+
+
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdfahimislamshoun&theme=radical" alt="GitHub Streak" /></a>
 
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={dracula}&exclude={html,css,js}" />  </a>
