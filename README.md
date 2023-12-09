@@ -21,7 +21,7 @@ Skills: REACT / JS / HTML / CSS
 <br />
 
 <p align="center">
-    <a href="www.linkedin.com/in/fahim-islam-a3a10a270">
+    <a href="https://www.linkedin.com/in/fahim-islam-a3a10a270/">
         <img height="75" src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/Linkedin.png">
     </a>
     <a href="https://www.facebook.com/profile.php?id=100029592060567">
