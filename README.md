@@ -16,8 +16,8 @@
 <br />
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/fahim-islam-a3a10a270/">
-        <img height="75" src="https://github.com/mdfahimislamshoun/mdfahimislamshoun/blob/main/lingdin.png">
+    <a href="https://www.linkedin.com/in/fahim-islam-a3a10a270/" >
+        <img height="75" margin-right="20" src="https://github.com/mdfahimislamshoun/mdfahimislamshoun/blob/main/lingdin.png">
     </a>
     <a href="https://www.facebook.com/profile.php?id=100029592060567">
         <img height="75" src="https://github.com/mdfahimislamshoun/mdfahimislamshoun/blob/main/facebook.png">
