@@ -17,13 +17,13 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/fahim-islam-a3a10a270/">
-        <img height="75" src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/Linkedin.png">
+        <img height="75" src="https://github.com/mdfahimislamshoun/mdfahimislamshoun/blob/main/lingdin.png">
     </a>
     <a href="https://www.facebook.com/profile.php?id=100029592060567">
-        <img height="75" src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/Facebook.png">
+        <img height="75" src="https://github.com/mdfahimislamshoun/mdfahimislamshoun/blob/main/facebook.png">
     </a>
     <a href="https://twitter.com/fahi_islam">
-        <img height="75" src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/Twitter2.png">
+        <img height="75" src="https://github.com/mdfahimislamshoun/mdfahimislamshoun/blob/main/1690643591twitter-x-logo-png.png">
     </a>
 </p>
 
