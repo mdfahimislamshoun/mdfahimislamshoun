@@ -39,6 +39,7 @@ Skills: REACT / JS / HTML / CSS
 
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={dracula}&exclude={html,css,js}" />  </a>
 
+## :computer: Technologies that I know
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,tailwind,react&theme=light)](https://skillicons.dev)
  
 
