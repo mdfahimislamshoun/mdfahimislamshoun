@@ -62,6 +62,9 @@
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={dracula}&exclude={html,css,js}" />  </a>
 
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdfahimislamshoun &theme=darcula)
+
 # My Work Overview
 
 Welcome to my web application project! My All project utilizes React.js for the frontend, Express.js for the backend, and MongoDB as the database. Firebase is employed for user authentication, and Tailwind CSS is used for styling.
@@ -81,6 +84,12 @@ The project is organized into folders:
 - **`/database`:** MongoDB configurations and schemas.
 - **`/public`:** Public assets.
 - **`/src`:** Source code for both frontend and backend.
+
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg)
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/3-stats.svg)
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg)
 
 
  
